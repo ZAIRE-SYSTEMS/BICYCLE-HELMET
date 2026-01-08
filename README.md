@@ -22,7 +22,6 @@ Hardware exists only as a vessel for the software.
 |   |  |── S3-N16R8/      # ESP32S3N16R8
 │   ├── atmega/           # ATmega (bare-metal / Arduino-style) platform implementation
 │   └── allwinner/        # Allwinner (Linux) platform implementation
-├── tests/                # Unit & integration tests
 ├── web/                  # Local web UI for configuration & insights
 ├── README.md
 └── LICENSE
